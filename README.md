@@ -21,6 +21,8 @@
 
 借鉴了LV.0、Mr.MVP、LSJ、樽博、官阳等同学的春季课程实验报告结果，如有侵权请及时联系。
 
+引用来源：*https://github.com/Jackey-Marine/References-of-AECP*
+
 ## 备注
 
 * 浙江大学工程师学院内部课程资料，自主借鉴使用，请勿大范围外传和商用，违规立删。
