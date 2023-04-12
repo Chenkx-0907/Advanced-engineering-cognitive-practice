@@ -2,6 +2,15 @@
 
 浙江大学工程师学院“”高阶工程认知实践“”课程资料
 
+```
+# 克隆项目
+git clone https://github.com/Jackey-Marine/Advanced-engineering-cognitive-practice.git
+
+# 初始化子模块（下载引用内容，可选）
+cd Advanced-engineering-cognitive-practice
+git submodule update --init --recursive
+```
+
 ## 私人汇总版本（违规立删）
 
 春季学期总计8个实验，本人的具体实验顺序如下表：
