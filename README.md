@@ -38,6 +38,10 @@ git submodule update --init --recursive
 | 2023.5.25 |      |      |
 | 2023.6.8  |      |      |
 
+## 不同班级课程顺序
+
+![class](class.png)
+
 ## 引用
 
 借鉴了LV.0、Mr.MVP、LSJ、樽博、官阳等同学的春季课程实验报告结果，如有侵权请及时联系。
