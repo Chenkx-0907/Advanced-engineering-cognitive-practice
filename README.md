@@ -3,7 +3,7 @@
 浙江大学工程师学院“”高阶工程认知实践“”课程资料，有clone和download的伙伴请不要忘记右上角点点Star。（๑￫ܫ￩）
 
 * 春季学期课程内容（已完结）
-* 夏季学期课程内容（更新中……）
+* 夏季学期课程内容（已完结）
 
 ```bash
 # 克隆项目
@@ -47,7 +47,7 @@ git submodule update --init --recursive
 * 国家国情政策，不同企业选取的技术路线等等。
 * 其他思想。
 
-以***姓名-学号***命名，提交到[E-mail](chennuo1@zju.edu.com)。
+以 ***姓名-学号*** 命名，提交到[chennuo1@zju.edu.cn](chennuo1@zju.edu.cn)。
 
 ## 不同班级课程顺序
 
